@@ -30,7 +30,7 @@
     <lint.maven.plugin.version>0.0.11</lint.maven.plugin.version>
     <spotbugs.maven.plugin.version>3.1.12.2</spotbugs.maven.plugin.version>
 
-    <spring.version>5.2.2.RELEASE</spring.version>
+    <spring.version>6.0.0</spring.version>
 
     <junit.jupiter.version>5.5.2</junit.jupiter.version>
     <commons.lang3.version>3.9</commons.lang3.version>
